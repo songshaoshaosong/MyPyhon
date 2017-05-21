@@ -1,0 +1,37 @@
+3566053753  宁波市海曙区民通街100号恒茂大厦8-2
+VS2008正式版序列号CDKEY：PYHYP-WXB3B-B2CCM-V9DX9-VDY8T
+
+regsvr32 /u ***.dll   取消注册文件
+oracle 学习计划
+了解 oracle 版本区别
+
+ 
+
+1. 10g支持网格计算，即多台结点服务器利用高速网络组成一个虚拟的高性能服务器，负载在整个网格中衡(Load Balance)，按需增删结点，避免单点故障(Single Point of Faliure）
+
+2.10g容易安装，且安装速度比9i少了一半
+
+3.新增基于浏览器的企业管理器(Enterprise Manager)
+
+4.支持自动管理(Automatic Management)增删硬盘不再需要操作系统管理员设置的镜像、负载均衡物理卷、逻辑卷、分区、文件系统，只要打一条Oracle命令，ASM会自动管理增加或删除的硬盘。
+
+5.内存自动化，根据需要自动分配和释放系统内存。
+
+
+6.SQL性能调整自动化。
+
+
+7.快速纠正人为错误的闪回(Flashback)查询和恢复，可以恢复数据库、表甚至记录。
+
+8.数据泵(Data Pump)高速导入、导出数据，比传统方法导出速度快两倍以上，导入速度快15--45倍
+
+9.精细审计(Fine-Grained Auditing)，记录一切对敏感数据的操作
+
+10.存储数据的表空间(Tablespace)跨平台复制，极大的提高数据仓库加载速度。
+
+11.流(Streams)复制，实现低系统消耗、双向(double-direction)、断点续传(resume from break point)、跨平台(cross platform)、跨数据源的复杂复制。
+
+12.容灾的数据卫士(Data Guard)增加了逻辑备份功能，备份数据库日常可以运行于只读状态，充分利用备份数据库。
+
+13.支持许多新EE选件，加强数据库内部管理的“Database Vault”，数据库活动的审计的（Audit Vault），数据仓库构建高级功能
+(Warehouse Builder Enterprise ETL, Warehouse Builder Data Quality). 
