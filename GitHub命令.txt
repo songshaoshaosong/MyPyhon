@@ -1,0 +1,4 @@
+git remote show origin   --显示远程仓库的状态
+git push origin master   --推送到远程仓库
+git pull                 --拉取远程仓库到本地来
+git remote -v            --显示本地关联的远程仓库
